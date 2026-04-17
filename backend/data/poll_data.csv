@@ -1,0 +1,501 @@
+Respondent ID,Timestamp,Age Group,Gender,Region,Question,Preferred Tool,Satisfaction (1-5),Feedback
+R0001,2025-02-01 08:07:36,18-24,Male,East,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0002,2025-01-12 21:29:57,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0003,2025-01-28 08:28:15,18-24,Male,North,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0004,2025-01-26 23:39:41,55+,Male,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0005,2025-02-27 21:27:16,55+,Female,South,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0006,2025-02-13 10:07:01,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0007,2025-01-12 13:49:57,25-34,Female,North,Which data tool do you prefer for analytics tasks?,Python,1,Python is flexible and powerful
+R0008,2025-02-03 01:34:55,35-44,Female,Central,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0009,2025-04-29 13:46:55,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0010,2025-04-24 13:10:00,55+,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0011,2025-01-06 08:17:51,25-34,Other,North,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0012,2025-02-18 10:07:14,18-24,Male,North,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0013,2025-02-15 07:37:40,35-44,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0014,2025-03-19 23:07:07,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0015,2025-01-21 16:49:49,55+,Other,South,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0016,2025-01-29 11:48:24,35-44,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0017,2025-02-21 09:44:53,25-34,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0018,2025-01-28 23:51:49,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0019,2025-01-19 09:38:38,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0020,2025-03-10 09:33:58,25-34,Other,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0021,2025-02-21 13:10:47,55+,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,5,Easy for quick reports
+R0022,2025-01-12 01:42:55,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,5,Python is flexible and powerful
+R0023,2025-04-12 15:22:13,25-34,Other,South,Which data tool do you prefer for analytics tasks?,R,4,Useful for academic work
+R0024,2025-03-18 17:02:28,18-24,Female,West,Which data tool do you prefer for analytics tasks?,R,4,Useful for academic work
+R0025,2025-03-29 04:10:14,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0026,2025-01-15 10:41:09,55+,Female,East,Which data tool do you prefer for analytics tasks?,Python,2,Great for automation and analysis
+R0027,2025-04-03 09:35:22,25-34,Female,North,Which data tool do you prefer for analytics tasks?,Tableau,2,Fast for interactive charts
+R0028,2025-04-22 22:45:59,25-34,Other,North,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0029,2025-01-20 13:36:49,55+,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0030,2025-03-18 11:48:07,55+,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0031,2025-04-23 11:11:46,18-24,Male,East,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0032,2025-01-11 03:07:06,18-24,Male,Central,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0033,2025-04-09 04:34:43,45-54,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,2,Very good for storytelling
+R0034,2025-02-03 19:12:43,45-54,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0035,2025-04-07 07:19:25,45-54,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0036,2025-02-26 18:50:39,35-44,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0037,2025-01-09 12:18:33,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0038,2025-03-17 08:01:04,55+,Other,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0039,2025-01-30 02:27:14,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,5,Very good for storytelling
+R0040,2025-01-31 10:08:20,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0041,2025-01-17 20:47:27,45-54,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0042,2025-04-14 14:49:14,45-54,Male,West,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0043,2025-02-15 15:25:19,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Python,2,Great for automation and analysis
+R0044,2025-03-28 23:47:29,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0045,2025-04-04 12:21:13,18-24,Male,West,Which data tool do you prefer for analytics tasks?,R,3,Good for statistics
+R0046,2025-03-10 16:20:00,25-34,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,2,Very good for storytelling
+R0047,2025-03-01 09:05:42,45-54,Male,East,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0048,2025-01-07 23:44:37,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0049,2025-01-22 14:47:49,18-24,Male,South,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0050,2025-04-26 02:08:05,45-54,Male,West,Which data tool do you prefer for analytics tasks?,Tableau,5,Very good for storytelling
+R0051,2025-02-03 16:33:58,45-54,Male,West,Which data tool do you prefer for analytics tasks?,Tableau,5,Beautiful dashboards
+R0052,2025-03-26 17:43:08,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,R,4,Good for statistics
+R0053,2025-01-08 21:05:14,25-34,Female,South,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0054,2025-01-08 01:49:32,55+,Male,East,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0055,2025-01-21 02:04:15,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,1,Fast for interactive charts
+R0056,2025-03-18 02:28:27,18-24,Male,North,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0057,2025-04-24 20:44:28,25-34,Female,North,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0058,2025-03-21 02:59:05,55+,Other,North,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0059,2025-02-10 09:29:39,55+,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0060,2025-02-20 04:45:54,35-44,Male,East,Which data tool do you prefer for analytics tasks?,R,5,Useful for academic work
+R0061,2025-04-29 02:38:28,35-44,Female,East,Which data tool do you prefer for analytics tasks?,R,3,Good for statistics
+R0062,2025-01-13 02:40:02,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,2,Great for day to day analysis
+R0063,2025-01-17 12:42:25,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0064,2025-01-21 15:57:13,25-34,Female,East,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0065,2025-01-02 20:11:32,35-44,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0066,2025-01-15 03:53:49,18-24,Male,East,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0067,2025-02-06 22:01:16,55+,Male,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0068,2025-03-06 17:47:12,35-44,Male,East,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0069,2025-04-17 10:04:25,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0070,2025-03-23 09:32:15,18-24,Female,South,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0071,2025-03-13 00:21:07,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Excel,5,Easy for quick reports
+R0072,2025-03-11 01:18:42,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Excel,5,Useful for beginners
+R0073,2025-02-25 04:38:24,55+,Other,South,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0074,2025-04-26 13:01:38,35-44,Female,North,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0075,2025-02-15 20:23:05,25-34,Other,North,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0076,2025-04-29 08:37:09,55+,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0077,2025-01-23 12:05:40,25-34,Female,North,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0078,2025-04-11 03:56:08,25-34,Female,South,Which data tool do you prefer for analytics tasks?,Python,2,Great for automation and analysis
+R0079,2025-01-26 16:45:32,18-24,Female,South,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0080,2025-01-04 07:01:53,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0081,2025-04-09 10:09:45,35-44,Female,North,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0082,2025-02-12 01:00:17,55+,Female,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0083,2025-02-03 01:23:34,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,5,Very good for storytelling
+R0084,2025-04-04 11:25:14,55+,Female,East,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0085,2025-02-19 20:59:34,55+,Other,North,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0086,2025-01-01 18:55:46,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0087,2025-01-09 12:01:19,25-34,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0088,2025-04-03 10:56:03,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0089,2025-02-11 14:39:03,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0090,2025-01-25 15:18:28,35-44,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0091,2025-03-20 20:43:13,45-54,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0092,2025-02-08 10:26:46,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Power BI,2,Strong dashboard experience
+R0093,2025-03-25 11:43:57,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0094,2025-03-07 17:13:41,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0095,2025-02-06 18:46:01,25-34,Other,North,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0096,2025-04-15 08:33:04,55+,Female,North,Which data tool do you prefer for analytics tasks?,Tableau,5,Fast for interactive charts
+R0097,2025-01-19 00:53:21,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0098,2025-04-19 02:39:05,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0099,2025-01-25 13:58:48,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0100,2025-03-25 00:12:06,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0101,2025-04-13 18:51:29,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,5,Beautiful dashboards
+R0102,2025-04-28 04:25:06,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0103,2025-03-13 21:40:47,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0104,2025-02-24 19:56:50,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0105,2025-02-27 09:26:12,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0106,2025-03-22 08:42:38,35-44,Other,West,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0107,2025-01-31 09:53:34,45-54,Male,East,Which data tool do you prefer for analytics tasks?,R,3,Helpful for research analysis
+R0108,2025-01-18 05:29:29,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0109,2025-04-01 07:47:23,45-54,Other,South,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0110,2025-03-11 16:57:49,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0111,2025-02-19 21:15:56,18-24,Male,West,Which data tool do you prefer for analytics tasks?,R,4,Useful for academic work
+R0112,2025-03-03 00:12:52,18-24,Other,West,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0113,2025-03-10 19:53:02,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0114,2025-02-04 15:52:05,25-34,Female,South,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0115,2025-03-27 14:43:14,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0116,2025-03-21 19:26:48,25-34,Female,South,Which data tool do you prefer for analytics tasks?,Python,5,Python is flexible and powerful
+R0117,2025-03-26 00:59:12,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0118,2025-01-24 01:49:50,45-54,Male,West,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0119,2025-02-28 11:54:00,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Excel,5,Useful for beginners
+R0120,2025-02-02 02:58:55,45-54,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0121,2025-01-07 12:44:30,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0122,2025-04-07 01:07:47,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0123,2025-01-20 08:41:06,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0124,2025-03-14 07:56:09,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0125,2025-03-19 22:06:33,35-44,Female,South,Which data tool do you prefer for analytics tasks?,Excel,2,Great for day to day analysis
+R0126,2025-01-14 21:04:09,18-24,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0127,2025-02-20 07:13:15,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0128,2025-01-14 10:58:49,55+,Other,South,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0129,2025-04-11 01:29:43,55+,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0130,2025-01-09 18:25:17,55+,Female,East,Which data tool do you prefer for analytics tasks?,Python,2,Best for data science projects
+R0131,2025-04-16 17:50:51,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Python,5,Python is flexible and powerful
+R0132,2025-04-01 05:34:12,45-54,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,5,Useful for business reporting
+R0133,2025-03-25 09:50:00,25-34,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Fast for interactive charts
+R0134,2025-02-25 21:34:16,55+,Female,West,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0135,2025-02-05 16:24:47,35-44,Male,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0136,2025-03-27 13:47:54,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,2,Great for automation and analysis
+R0137,2025-01-24 17:45:04,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0138,2025-02-05 21:42:19,35-44,Female,East,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0139,2025-03-08 06:57:22,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0140,2025-03-04 20:12:48,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,2,Strong dashboard experience
+R0141,2025-02-27 00:37:40,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0142,2025-03-30 08:51:30,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,5,Useful for business reporting
+R0143,2025-03-12 19:19:48,55+,Female,West,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0144,2025-02-12 12:48:32,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,2,Fast for interactive charts
+R0145,2025-02-02 08:23:37,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0146,2025-04-06 19:30:36,25-34,Female,North,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0147,2025-04-05 17:37:44,25-34,Male,South,Which data tool do you prefer for analytics tasks?,Excel,2,Useful for beginners
+R0148,2025-02-06 03:39:36,55+,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0149,2025-01-23 11:00:18,35-44,Male,East,Which data tool do you prefer for analytics tasks?,Excel,5,Easy for quick reports
+R0150,2025-01-06 01:59:06,55+,Male,East,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0151,2025-03-23 17:52:20,35-44,Other,South,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0152,2025-03-02 17:25:46,18-24,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,5,Beautiful dashboards
+R0153,2025-02-02 17:23:36,35-44,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0154,2025-01-10 21:00:31,18-24,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0155,2025-04-14 20:29:32,18-24,Male,South,Which data tool do you prefer for analytics tasks?,R,2,Helpful for research analysis
+R0156,2025-03-13 15:09:08,18-24,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,5,Interactive visuals are helpful
+R0157,2025-04-10 19:01:34,55+,Other,South,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0158,2025-04-21 21:25:39,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0159,2025-01-08 22:11:45,35-44,Other,Central,Which data tool do you prefer for analytics tasks?,R,3,Useful for academic work
+R0160,2025-02-03 02:57:21,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0161,2025-01-10 05:41:57,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0162,2025-03-02 10:36:15,45-54,Female,Central,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0163,2025-03-31 16:31:50,25-34,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0164,2025-03-26 07:12:08,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0165,2025-03-24 05:25:28,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0166,2025-01-22 11:11:59,25-34,Male,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0167,2025-01-16 17:03:53,55+,Female,West,Which data tool do you prefer for analytics tasks?,R,2,Useful for academic work
+R0168,2025-02-04 18:13:17,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Tableau,2,Fast for interactive charts
+R0169,2025-03-18 01:27:04,45-54,Female,North,Which data tool do you prefer for analytics tasks?,Excel,5,Useful for beginners
+R0170,2025-01-04 03:19:30,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0171,2025-04-08 09:48:45,55+,Other,North,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0172,2025-03-08 23:43:14,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0173,2025-02-25 23:06:42,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0174,2025-02-22 12:08:07,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0175,2025-02-22 18:02:22,18-24,Male,East,Which data tool do you prefer for analytics tasks?,R,3,Helpful for research analysis
+R0176,2025-02-28 03:12:22,45-54,Other,North,Which data tool do you prefer for analytics tasks?,R,3,Helpful for research analysis
+R0177,2025-04-09 14:42:56,35-44,Female,North,Which data tool do you prefer for analytics tasks?,R,5,Useful for academic work
+R0178,2025-03-01 15:02:45,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0179,2025-03-21 18:08:58,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0180,2025-02-04 19:59:47,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,2,Very good for storytelling
+R0181,2025-01-16 01:03:03,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0182,2025-02-09 20:03:19,55+,Male,South,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0183,2025-01-29 04:07:51,55+,Female,North,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0184,2025-03-05 10:37:34,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0185,2025-03-02 08:52:26,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0186,2025-01-25 21:49:21,55+,Male,West,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0187,2025-04-09 15:06:27,25-34,Male,East,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0188,2025-02-06 10:52:12,55+,Female,North,Which data tool do you prefer for analytics tasks?,Tableau,4,Fast for interactive charts
+R0189,2025-04-21 05:24:36,55+,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,5,Useful for business reporting
+R0190,2025-02-12 20:05:40,55+,Female,East,Which data tool do you prefer for analytics tasks?,R,3,Useful for academic work
+R0191,2025-04-22 06:52:07,45-54,Female,East,Which data tool do you prefer for analytics tasks?,R,3,Useful for academic work
+R0192,2025-01-30 14:57:21,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,5,Python is flexible and powerful
+R0193,2025-04-01 13:52:48,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Tableau,2,Beautiful dashboards
+R0194,2025-01-17 18:17:16,25-34,Female,North,Which data tool do you prefer for analytics tasks?,R,5,Useful for academic work
+R0195,2025-01-13 19:08:57,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0196,2025-02-22 23:50:23,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0197,2025-02-13 22:41:31,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0198,2025-04-20 11:57:45,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0199,2025-03-22 17:45:56,55+,Female,East,Which data tool do you prefer for analytics tasks?,R,2,Useful for academic work
+R0200,2025-01-31 22:58:47,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0201,2025-02-25 03:35:03,35-44,Male,North,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0202,2025-03-30 10:54:11,18-24,Female,South,Which data tool do you prefer for analytics tasks?,R,4,Good for statistics
+R0203,2025-02-07 13:03:04,18-24,Female,North,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0204,2025-03-09 15:00:08,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0205,2025-01-11 22:11:27,25-34,Male,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0206,2025-03-05 21:13:55,55+,Other,South,Which data tool do you prefer for analytics tasks?,Power BI,5,Strong dashboard experience
+R0207,2025-02-28 09:17:46,25-34,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0208,2025-03-28 19:54:03,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0209,2025-03-17 10:53:30,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0210,2025-02-28 10:59:59,45-54,Other,East,Which data tool do you prefer for analytics tasks?,Excel,2,Easy for quick reports
+R0211,2025-01-31 13:53:06,45-54,Female,North,Which data tool do you prefer for analytics tasks?,Power BI,2,Interactive visuals are helpful
+R0212,2025-03-31 10:44:56,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0213,2025-03-14 01:47:08,45-54,Female,North,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0214,2025-03-19 12:49:39,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Excel,5,Easy for quick reports
+R0215,2025-03-28 04:58:47,25-34,Other,East,Which data tool do you prefer for analytics tasks?,R,3,Useful for academic work
+R0216,2025-02-09 16:02:59,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0217,2025-01-12 10:44:40,55+,Female,South,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0218,2025-01-17 19:38:21,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0219,2025-04-17 05:59:27,55+,Other,East,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0220,2025-04-13 04:11:35,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0221,2025-04-21 14:28:09,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0222,2025-01-02 09:37:43,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0223,2025-03-28 09:32:42,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Tableau,5,Fast for interactive charts
+R0224,2025-01-14 08:30:47,45-54,Other,East,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0225,2025-02-11 22:12:44,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0226,2025-04-27 11:00:08,18-24,Other,West,Which data tool do you prefer for analytics tasks?,Python,2,Best for data science projects
+R0227,2025-01-06 01:21:17,45-54,Male,South,Which data tool do you prefer for analytics tasks?,R,2,Helpful for research analysis
+R0228,2025-01-31 19:34:17,45-54,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0229,2025-03-27 19:40:04,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0230,2025-04-24 15:06:19,55+,Other,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0231,2025-02-22 10:11:06,18-24,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0232,2025-02-26 08:35:47,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Tableau,5,Beautiful dashboards
+R0233,2025-03-11 23:28:38,18-24,Other,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0234,2025-01-25 04:26:51,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0235,2025-03-24 23:16:59,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0236,2025-02-01 04:35:05,18-24,Male,East,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0237,2025-01-27 21:20:58,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0238,2025-04-11 21:41:56,25-34,Female,South,Which data tool do you prefer for analytics tasks?,Excel,5,Easy for quick reports
+R0239,2025-03-11 09:07:33,35-44,Male,South,Which data tool do you prefer for analytics tasks?,R,4,Good for statistics
+R0240,2025-01-17 00:32:27,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,2,Beautiful dashboards
+R0241,2025-01-03 06:20:38,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0242,2025-03-09 04:08:16,18-24,Male,West,Which data tool do you prefer for analytics tasks?,R,4,Useful for academic work
+R0243,2025-04-10 13:10:53,18-24,Female,West,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0244,2025-03-06 08:03:58,55+,Male,West,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0245,2025-02-08 16:40:36,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0246,2025-04-19 14:37:20,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0247,2025-01-10 02:56:29,18-24,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0248,2025-01-17 10:00:46,55+,Male,North,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0249,2025-02-18 21:45:01,55+,Other,East,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0250,2025-03-19 15:39:47,35-44,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0251,2025-04-03 07:49:43,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,R,5,Helpful for research analysis
+R0252,2025-02-13 16:30:41,45-54,Male,West,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0253,2025-02-10 15:32:16,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0254,2025-03-29 17:16:03,35-44,Female,South,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0255,2025-02-25 03:30:56,18-24,Male,North,Which data tool do you prefer for analytics tasks?,Python,2,Best for data science projects
+R0256,2025-01-08 21:21:09,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0257,2025-02-22 12:52:26,55+,Female,North,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0258,2025-02-06 21:51:36,45-54,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0259,2025-03-06 07:44:44,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0260,2025-02-14 20:15:10,45-54,Male,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0261,2025-01-29 15:37:24,18-24,Female,Central,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0262,2025-01-04 22:10:22,55+,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,2,Great for day to day analysis
+R0263,2025-02-04 11:14:59,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0264,2025-04-22 05:12:56,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,2,Fast for interactive charts
+R0265,2025-04-05 23:03:11,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0266,2025-01-28 13:41:48,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,R,3,Helpful for research analysis
+R0267,2025-02-17 11:20:46,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0268,2025-01-11 01:54:55,35-44,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0269,2025-03-28 02:58:13,25-34,Other,North,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0270,2025-03-04 22:06:10,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0271,2025-04-07 18:39:14,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0272,2025-02-06 21:35:43,35-44,Female,North,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0273,2025-01-06 08:01:43,55+,Other,East,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0274,2025-01-27 10:58:27,55+,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0275,2025-02-11 04:22:06,25-34,Female,East,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0276,2025-01-23 04:42:12,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0277,2025-03-06 20:20:33,55+,Other,South,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0278,2025-04-21 01:32:24,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0279,2025-04-21 11:23:53,18-24,Female,North,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0280,2025-04-01 23:18:24,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,2,Useful for business reporting
+R0281,2025-01-03 11:49:28,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0282,2025-01-12 15:54:00,55+,Female,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0283,2025-02-21 19:04:36,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0284,2025-01-29 12:07:35,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0285,2025-03-09 18:34:00,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0286,2025-01-31 03:44:34,35-44,Female,South,Which data tool do you prefer for analytics tasks?,R,3,Good for statistics
+R0287,2025-03-19 05:33:56,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Python,1,Best for data science projects
+R0288,2025-03-01 20:31:29,18-24,Male,West,Which data tool do you prefer for analytics tasks?,R,4,Useful for academic work
+R0289,2025-03-24 23:07:49,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0290,2025-01-20 16:00:40,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0291,2025-04-12 10:00:02,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0292,2025-01-10 11:18:05,18-24,Female,Central,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0293,2025-02-17 10:27:07,45-54,Male,North,Which data tool do you prefer for analytics tasks?,R,5,Good for statistics
+R0294,2025-03-06 13:59:54,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0295,2025-02-27 20:48:48,55+,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0296,2025-03-02 18:15:15,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0297,2025-04-14 12:30:15,18-24,Female,North,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0298,2025-01-06 09:01:12,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0299,2025-03-08 22:12:08,45-54,Female,Central,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0300,2025-02-19 14:52:58,35-44,Female,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0301,2025-01-09 12:00:13,55+,Male,East,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0302,2025-02-06 09:10:29,55+,Other,West,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0303,2025-01-11 21:13:00,55+,Male,East,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0304,2025-03-25 14:16:14,25-34,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0305,2025-02-09 20:20:59,55+,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0306,2025-01-12 23:31:15,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0307,2025-01-03 13:12:06,45-54,Other,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0308,2025-04-09 17:42:16,25-34,Male,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0309,2025-01-10 10:46:10,25-34,Male,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0310,2025-01-05 12:15:40,55+,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,5,Fast for interactive charts
+R0311,2025-01-20 05:54:26,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0312,2025-01-06 14:57:32,55+,Male,West,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0313,2025-02-06 16:20:41,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0314,2025-04-14 17:04:34,55+,Male,East,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0315,2025-02-26 16:48:33,35-44,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0316,2025-02-23 05:54:01,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0317,2025-01-07 23:20:40,55+,Male,East,Which data tool do you prefer for analytics tasks?,Excel,3,Useful for beginners
+R0318,2025-04-02 18:47:01,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Python,1,Python is flexible and powerful
+R0319,2025-02-04 16:21:33,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,2,Fast for interactive charts
+R0320,2025-04-27 08:05:02,25-34,Female,North,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0321,2025-01-07 14:26:04,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0322,2025-01-11 13:39:00,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0323,2025-04-18 23:39:51,18-24,Female,North,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0324,2025-02-06 17:12:05,25-34,Male,North,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0325,2025-02-27 22:24:14,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0326,2025-01-28 05:26:37,18-24,Male,East,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0327,2025-01-15 10:29:22,55+,Other,West,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0328,2025-01-31 15:17:07,35-44,Male,North,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0329,2025-01-15 18:11:53,55+,Female,North,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0330,2025-03-15 08:48:31,55+,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Fast for interactive charts
+R0331,2025-01-01 22:23:04,25-34,Female,West,Which data tool do you prefer for analytics tasks?,Excel,5,Useful for beginners
+R0332,2025-01-24 03:07:01,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0333,2025-03-11 18:28:16,35-44,Male,Central,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0334,2025-04-22 17:07:01,55+,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0335,2025-04-06 00:35:28,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,2,Useful for business reporting
+R0336,2025-04-04 23:55:27,18-24,Female,South,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0337,2025-01-18 01:36:51,18-24,Other,East,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0338,2025-04-17 16:54:59,55+,Female,South,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0339,2025-04-14 04:54:35,45-54,Other,South,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0340,2025-01-26 01:35:41,45-54,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,5,Strong dashboard experience
+R0341,2025-03-07 14:29:56,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0342,2025-04-07 23:33:10,45-54,Female,North,Which data tool do you prefer for analytics tasks?,R,4,Good for statistics
+R0343,2025-04-21 23:52:28,35-44,Female,North,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0344,2025-02-25 14:33:51,35-44,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,2,Interactive visuals are helpful
+R0345,2025-01-24 18:03:58,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0346,2025-02-04 03:00:28,45-54,Female,Central,Which data tool do you prefer for analytics tasks?,R,4,Useful for academic work
+R0347,2025-03-19 06:34:12,45-54,Male,West,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0348,2025-01-11 11:56:21,35-44,Female,North,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0349,2025-03-19 15:30:51,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0350,2025-01-06 12:50:10,45-54,Female,West,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0351,2025-01-10 23:12:40,45-54,Female,North,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0352,2025-01-04 05:11:54,35-44,Other,South,Which data tool do you prefer for analytics tasks?,R,1,Useful for academic work
+R0353,2025-01-09 08:35:32,45-54,Male,South,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0354,2025-03-14 01:10:44,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0355,2025-02-17 13:32:40,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,2,Great for automation and analysis
+R0356,2025-03-09 13:21:36,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0357,2025-02-01 04:07:49,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0358,2025-02-19 20:26:59,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0359,2025-01-28 22:16:39,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0360,2025-01-18 02:41:46,45-54,Male,North,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0361,2025-01-12 11:38:09,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0362,2025-03-12 19:44:23,35-44,Other,North,Which data tool do you prefer for analytics tasks?,R,3,Helpful for research analysis
+R0363,2025-04-12 13:09:41,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0364,2025-04-12 05:03:22,25-34,Male,South,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0365,2025-03-12 20:50:09,45-54,Male,East,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0366,2025-03-20 03:08:20,45-54,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0367,2025-03-09 14:57:23,35-44,Female,West,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0368,2025-02-10 23:23:12,55+,Male,South,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0369,2025-02-14 04:40:21,45-54,Female,Central,Which data tool do you prefer for analytics tasks?,Tableau,5,Fast for interactive charts
+R0370,2025-02-25 18:18:31,55+,Male,South,Which data tool do you prefer for analytics tasks?,Excel,1,Easy for quick reports
+R0371,2025-02-08 05:59:41,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0372,2025-02-14 18:53:32,35-44,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0373,2025-03-23 20:03:19,18-24,Female,South,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0374,2025-03-20 19:25:24,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0375,2025-03-17 21:08:26,55+,Other,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0376,2025-04-03 22:01:56,25-34,Other,Central,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0377,2025-01-11 01:39:18,55+,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0378,2025-04-09 20:49:51,55+,Female,South,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0379,2025-03-05 22:50:03,55+,Other,North,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0380,2025-03-03 08:54:56,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0381,2025-01-10 02:10:52,45-54,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0382,2025-03-01 07:25:41,45-54,Female,West,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0383,2025-04-21 11:37:33,55+,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0384,2025-04-08 13:29:27,35-44,Female,South,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0385,2025-01-31 16:59:01,55+,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0386,2025-01-19 03:31:29,35-44,Female,South,Which data tool do you prefer for analytics tasks?,R,3,Good for statistics
+R0387,2025-02-23 09:02:21,35-44,Female,Central,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0388,2025-01-25 05:48:05,35-44,Other,East,Which data tool do you prefer for analytics tasks?,R,5,Helpful for research analysis
+R0389,2025-04-23 11:14:01,55+,Female,West,Which data tool do you prefer for analytics tasks?,Tableau,2,Beautiful dashboards
+R0390,2025-03-06 16:38:50,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0391,2025-01-07 01:50:24,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0392,2025-02-06 19:32:25,45-54,Other,West,Which data tool do you prefer for analytics tasks?,Excel,2,Easy for quick reports
+R0393,2025-04-23 09:37:44,18-24,Female,South,Which data tool do you prefer for analytics tasks?,Excel,2,Great for day to day analysis
+R0394,2025-01-06 14:35:05,35-44,Female,East,Which data tool do you prefer for analytics tasks?,R,3,Good for statistics
+R0395,2025-02-16 20:08:32,55+,Other,South,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0396,2025-02-27 20:01:10,18-24,Female,Central,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0397,2025-01-16 04:41:04,55+,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,5,Easy for quick reports
+R0398,2025-03-13 13:18:40,45-54,Female,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0399,2025-02-21 18:12:26,25-34,Other,Central,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0400,2025-04-02 12:07:32,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0401,2025-03-19 18:46:08,55+,Female,South,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0402,2025-01-21 14:18:25,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0403,2025-03-06 18:33:29,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0404,2025-02-08 17:17:25,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0405,2025-02-23 21:15:07,35-44,Female,North,Which data tool do you prefer for analytics tasks?,Python,5,Great for automation and analysis
+R0406,2025-02-03 23:52:09,18-24,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,5,Interactive visuals are helpful
+R0407,2025-03-16 17:29:33,55+,Male,North,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0408,2025-04-10 13:50:32,55+,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0409,2025-03-31 04:00:04,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Easy for quick reports
+R0410,2025-02-23 05:30:48,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0411,2025-04-10 22:15:47,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Python,2,Great for automation and analysis
+R0412,2025-03-08 07:32:56,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0413,2025-03-09 13:43:11,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0414,2025-02-13 19:53:21,25-34,Female,Central,Which data tool do you prefer for analytics tasks?,Excel,2,Useful for beginners
+R0415,2025-01-25 08:58:31,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0416,2025-02-08 10:31:20,55+,Female,South,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0417,2025-02-10 17:28:08,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0418,2025-02-06 04:26:14,55+,Other,East,Which data tool do you prefer for analytics tasks?,Python,2,Best for data science projects
+R0419,2025-04-15 12:33:57,55+,Female,West,Which data tool do you prefer for analytics tasks?,Excel,2,Easy for quick reports
+R0420,2025-04-02 02:52:38,35-44,Male,East,Which data tool do you prefer for analytics tasks?,Tableau,4,Beautiful dashboards
+R0421,2025-04-06 17:26:33,45-54,Other,East,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0422,2025-04-30 20:27:44,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0423,2025-03-20 21:21:57,35-44,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,2,Strong dashboard experience
+R0424,2025-01-29 23:13:36,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0425,2025-02-12 17:11:58,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Tableau,3,Very good for storytelling
+R0426,2025-04-29 05:45:01,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0427,2025-04-07 10:27:29,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Excel,2,Useful for beginners
+R0428,2025-04-27 03:15:25,35-44,Other,North,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0429,2025-04-05 01:21:28,55+,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0430,2025-04-18 14:27:14,45-54,Male,North,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0431,2025-04-23 01:21:50,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Power BI,3,Strong dashboard experience
+R0432,2025-01-14 12:11:54,35-44,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0433,2025-03-09 17:58:58,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0434,2025-01-25 04:06:04,55+,Female,East,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0435,2025-03-24 09:22:00,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0436,2025-04-12 10:44:29,25-34,Male,East,Which data tool do you prefer for analytics tasks?,R,3,Useful for academic work
+R0437,2025-04-20 23:15:19,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,R,5,Helpful for research analysis
+R0438,2025-01-12 14:35:38,45-54,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0439,2025-03-03 11:46:55,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Python,2,Python is flexible and powerful
+R0440,2025-01-31 16:15:54,18-24,Female,West,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0441,2025-04-03 20:51:28,35-44,Female,Central,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0442,2025-03-30 08:36:12,35-44,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,5,Very good for storytelling
+R0443,2025-01-21 14:45:38,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0444,2025-03-30 04:16:29,55+,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,2,Fast for interactive charts
+R0445,2025-01-29 07:58:41,35-44,Female,Central,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0446,2025-04-06 22:03:15,45-54,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0447,2025-04-27 17:08:32,45-54,Other,Central,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0448,2025-04-22 02:58:50,25-34,Male,Central,Which data tool do you prefer for analytics tasks?,Tableau,4,Fast for interactive charts
+R0449,2025-01-10 20:32:26,45-54,Other,East,Which data tool do you prefer for analytics tasks?,R,5,Good for statistics
+R0450,2025-01-26 20:51:05,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Excel,3,Great for day to day analysis
+R0451,2025-04-20 18:56:42,25-34,Male,East,Which data tool do you prefer for analytics tasks?,Excel,4,Useful for beginners
+R0452,2025-04-02 21:13:54,18-24,Other,South,Which data tool do you prefer for analytics tasks?,R,4,Helpful for research analysis
+R0453,2025-04-14 02:01:32,18-24,Other,West,Which data tool do you prefer for analytics tasks?,Tableau,2,Beautiful dashboards
+R0454,2025-02-28 20:31:52,25-34,Other,West,Which data tool do you prefer for analytics tasks?,Tableau,2,Very good for storytelling
+R0455,2025-04-03 00:47:33,55+,Female,East,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0456,2025-03-16 02:39:32,35-44,Male,South,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0457,2025-03-11 02:11:37,45-54,Female,North,Which data tool do you prefer for analytics tasks?,Excel,2,Easy for quick reports
+R0458,2025-02-22 06:33:10,45-54,Male,East,Which data tool do you prefer for analytics tasks?,Power BI,2,Strong dashboard experience
+R0459,2025-02-27 13:44:39,45-54,Female,West,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0460,2025-01-18 23:47:40,18-24,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0461,2025-02-20 19:15:16,18-24,Male,Central,Which data tool do you prefer for analytics tasks?,R,5,Good for statistics
+R0462,2025-02-08 16:51:26,25-34,Male,North,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0463,2025-02-18 08:21:42,55+,Female,Central,Which data tool do you prefer for analytics tasks?,R,5,Good for statistics
+R0464,2025-02-05 06:51:44,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Excel,5,Great for day to day analysis
+R0465,2025-03-20 00:34:10,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0466,2025-03-18 01:13:20,25-34,Male,North,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0467,2025-02-01 01:36:38,55+,Other,North,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0468,2025-01-28 02:03:18,45-54,Male,Central,Which data tool do you prefer for analytics tasks?,R,3,Good for statistics
+R0469,2025-04-15 20:58:31,55+,Female,South,Which data tool do you prefer for analytics tasks?,Tableau,3,Beautiful dashboards
+R0470,2025-01-31 10:59:12,55+,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,2,Very good for storytelling
+R0471,2025-02-08 10:01:04,55+,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Strong dashboard experience
+R0472,2025-03-22 15:33:14,55+,Other,South,Which data tool do you prefer for analytics tasks?,Python,3,Best for data science projects
+R0473,2025-03-24 13:52:38,45-54,Male,East,Which data tool do you prefer for analytics tasks?,Python,5,Best for data science projects
+R0474,2025-02-22 05:25:58,35-44,Other,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0475,2025-03-02 08:46:24,45-54,Male,Central,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0476,2025-04-14 16:51:29,35-44,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Python is flexible and powerful
+R0477,2025-03-13 19:17:47,55+,Female,West,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0478,2025-01-27 12:01:28,45-54,Male,East,Which data tool do you prefer for analytics tasks?,Excel,4,Great for day to day analysis
+R0479,2025-01-12 19:30:06,18-24,Female,East,Which data tool do you prefer for analytics tasks?,Python,2,Best for data science projects
+R0480,2025-02-18 22:01:34,25-34,Male,East,Which data tool do you prefer for analytics tasks?,Python,2,Best for data science projects
+R0481,2025-04-13 21:23:35,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Power BI,3,Interactive visuals are helpful
+R0482,2025-01-27 12:07:22,55+,Male,West,Which data tool do you prefer for analytics tasks?,Python,3,Great for automation and analysis
+R0483,2025-04-05 04:16:16,18-24,Male,South,Which data tool do you prefer for analytics tasks?,Power BI,1,Interactive visuals are helpful
+R0484,2025-04-01 07:26:45,45-54,Male,Central,Which data tool do you prefer for analytics tasks?,Power BI,3,Useful for business reporting
+R0485,2025-04-10 10:18:21,25-34,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,5,Beautiful dashboards
+R0486,2025-02-09 09:31:23,45-54,Other,East,Which data tool do you prefer for analytics tasks?,Power BI,2,Useful for business reporting
+R0487,2025-01-13 17:05:37,55+,Female,West,Which data tool do you prefer for analytics tasks?,Python,4,Great for automation and analysis
+R0488,2025-02-22 01:39:52,25-34,Female,East,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0489,2025-01-03 09:29:40,25-34,Other,South,Which data tool do you prefer for analytics tasks?,Tableau,4,Fast for interactive charts
+R0490,2025-02-07 05:32:56,55+,Other,West,Which data tool do you prefer for analytics tasks?,Tableau,4,Very good for storytelling
+R0491,2025-03-14 08:56:48,35-44,Male,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Useful for business reporting
+R0492,2025-02-02 17:47:24,55+,Other,East,Which data tool do you prefer for analytics tasks?,Tableau,5,Fast for interactive charts
+R0493,2025-04-04 12:49:20,45-54,Female,South,Which data tool do you prefer for analytics tasks?,Python,3,Python is flexible and powerful
+R0494,2025-03-04 06:42:03,25-34,Other,Central,Which data tool do you prefer for analytics tasks?,Tableau,3,Fast for interactive charts
+R0495,2025-04-18 02:42:22,18-24,Other,North,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0496,2025-01-18 22:57:47,18-24,Male,West,Which data tool do you prefer for analytics tasks?,Excel,4,Easy for quick reports
+R0497,2025-01-02 07:57:48,18-24,Other,South,Which data tool do you prefer for analytics tasks?,Python,4,Best for data science projects
+R0498,2025-03-21 23:13:08,45-54,Female,North,Which data tool do you prefer for analytics tasks?,R,2,Useful for academic work
+R0499,2025-01-03 00:14:26,55+,Female,West,Which data tool do you prefer for analytics tasks?,Power BI,4,Interactive visuals are helpful
+R0500,2025-01-03 19:16:31,55+,Female,North,Which data tool do you prefer for analytics tasks?,Excel,2,Great for day to day analysis

@@ -1,0 +1,33 @@
+{
+  "top_tool": "Python",
+  "top_share_percent": 34.6,
+  "average_satisfaction": 3.5,
+  "region_leaders": [
+    {
+      "Region": "Central",
+      "Preferred Tool": "Excel",
+      "Votes": 28
+    },
+    {
+      "Region": "East",
+      "Preferred Tool": "Python",
+      "Votes": 39
+    },
+    {
+      "Region": "North",
+      "Preferred Tool": "Python",
+      "Votes": 32
+    },
+    {
+      "Region": "South",
+      "Preferred Tool": "Python",
+      "Votes": 39
+    },
+    {
+      "Region": "West",
+      "Preferred Tool": "Python",
+      "Votes": 36
+    }
+  ],
+  "total_responses": 500
+}
